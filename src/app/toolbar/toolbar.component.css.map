@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAQ;EACN,IAAI,EAAE,IAAI",
+"sources": ["toolbar.component.scss"],
+"names": [],
+"file": "toolbar.component.css"
+}
